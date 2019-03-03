@@ -12,9 +12,8 @@ I am a person who goes to their goals until they are achieved. Now my goal is to
 * Languages: C++, HTML5, CSS3
 * Graphics editor: Photoshop
 * ~~Dota 2 MMR: 5k~~
-## Last codes: </br>
+## Last codes: 
 `< module.exports = function check(str, bracketsConfig) { 
-// your solution 
 for(var i=0;i<=15;i++){ 
 var newStr=str.replace(/\(\)/, ''); 
 var str=newStr.replace( /\[\]/, ''); 
@@ -31,4 +30,7 @@ if(str.length===0){
 return true ; 
 } 
 else {return false }; 
-}; >`
+}; >`  
+## Experience: 
+No project :( 
+ 
