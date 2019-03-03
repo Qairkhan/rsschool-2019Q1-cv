@@ -7,11 +7,13 @@
 * GitHub: Qairkhan
 
 ## Summary:
-I am a person who goes to their goals until they are achieved. Now my goal is to realize my abilities and potential in programming in JS and continuing growth in this area.
+I am a person who goes to their goals until they are achieved. Now my goal is to realize my abilities and potential in programming in JS and continuing growth in this area.  
+
 ## Skills:
 * Languages: C++, HTML5, CSS3
 * Graphics editor: Photoshop
-* ~~Dota 2 MMR: 5k~~
+* ~~Dota 2 MMR: 5k~~  
+
 ## Last codes: 
 ``` < module.exports = function check(str, bracketsConfig) { 
 for(var i=0;i<=15;i++){ 
@@ -35,5 +37,10 @@ else {return false };
 No project :( 
 ## Education:  
 * 2012-2017 BSUIR: Faculty of Radioengineering and Electronics
-* 2017-2018 BSUIR: Master degree, specialized in informational Radiotechnologies  
+* 2017-2018 BSUIR: Master degree, specialized in informational Radiotechnologies   
 
+
+## Foreight languages:
+* English: A2 
+* Qazaq tili: C2
+ 
