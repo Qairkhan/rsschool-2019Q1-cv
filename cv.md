@@ -13,7 +13,7 @@ I am a person who goes to their goals until they are achieved. Now my goal is to
 * Graphics editor: Photoshop
 * ~~Dota 2 MMR: 5k~~
 ## Last codes: 
-`< module.exports = function check(str, bracketsConfig) { 
+``` < module.exports = function check(str, bracketsConfig) { 
 for(var i=0;i<=15;i++){ 
 var newStr=str.replace(/\(\)/, ''); 
 var str=newStr.replace( /\[\]/, ''); 
@@ -30,7 +30,10 @@ if(str.length===0){
 return true ; 
 } 
 else {return false }; 
-}; >`  
+}; ```
 ## Experience: 
 No project :( 
- 
+## Education:  
+* 2012-2017 BSUIR: Faculty of Radioengineering and Electronics
+* 2017-2018 BSUIR: Master degree, specialized in informational Radiotechnologies  
+
