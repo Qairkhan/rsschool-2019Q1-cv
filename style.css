@@ -31,3 +31,52 @@
     padding: 30px 39px 24px 28px;
     color: #e0e0e0;
 }
+.circle img{
+    width: 8%;
+    margin-left: 602px;
+    opacity: 1;
+    z-index: 2;
+}
+.middle {
+    background: rgba(77, 81, 84, 0.9);
+    height: 100%;
+    z-index: -1;
+}
+.row {
+    display: flex;
+}
+.contacts {
+    display: block;
+    width: 48%;
+    justify-content: center;
+    text-align: center;
+}
+.link {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+.link1 {
+    text-decoration: underline;
+    color: white;
+}
+.link2 {
+    text-decoration: line-through;
+    color: black;
+}
+p {
+    font-size: 22px;
+    color: white;
+}
+h2 {
+    font-size: 30px;
+    color: black;
+}
+h1 {
+    color: black;
+}
+.row2 {
+    width: 100%;
+    display: flex;
+    margin-left: 38px;
+}
